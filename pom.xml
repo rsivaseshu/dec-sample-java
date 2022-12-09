@@ -5,7 +5,7 @@
   <artifactId>dec-sample-java</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <namedec-sample-java</name>
+  <name>dec-sample-java</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
